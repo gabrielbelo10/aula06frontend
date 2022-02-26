@@ -1,0 +1,10 @@
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.imagem__biografia {
+    background-image: url(/aula06frontend/img/elonmusk.jpg);
+    background-size: 20% 80%;
+    background-repeat: no-repeat;
+    background-position-x: 1cm;
+}
